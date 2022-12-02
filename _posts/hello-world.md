@@ -1,19 +1,47 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: "大学入試生物 / 「あれ, 問題集を何周もしたのに共通テスト解けなくね？」"
+excerpt: "「基礎問題精講」「標準問題集」等, 生物には様々な問題集があり, これを用いて勉強している方も多いのではないかと思います。中には3週以上しているという努力家の方もいらっしゃるでしょう。しかし, それにもかかわらず模試の点数が安定しない, 点数が努力量に比して振るわない, という場面が「生物」という科目にはあります。"
+coverImage: "/assets/blog/hello-world/cover.jpg"
+date: "2022-12-02T05:35:07.322Z"
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: 永久学生
+  picture: "/assets/blog/authors/PXL_20220225_041108575.jpg"
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## 勉強してるのに点数が上がらない...
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+「大学入試生物」ではこういった事態が往々にして起こります。というのも, 生物には「化学や数学のように公式を知っていればなんとなく解ける問題」が多くないからです。闇雲に問題集を回して得られるのは「典型題をなんとなく解ける能力」であり, 生物で必要とされる, 「知識をもとに考察する能力」ではありません。
 
-## Lorem Ipsum
+## では, 問題集を回していたのは無駄だったのか？
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+そんなことは断じてありません。確かに勉強法として非効率的であったことを認めざるを得ませんが, これに気づけたのなら, それまでの演習を意義あるものに変えることは十二分にできます。以下, その具体的な方法を記述していきます。
+
+生物の問題を解く上で必要な能力が「知識をもとに考察する能力」であれば, まず「知識」を身につける必要があります。高校生物で覚えるべき知識が詰まった教材とはなんでしょうか？
+
+## 「教科書」と「図説」
+
+極論を言ってしまえば, 教科書と図説の内容を丸暗記できれば受験生物の問題は解けるようになるのです。(一部私大医学部の知識問題を除く)
+実際, 最終目標地点は教科書の内容丸暗記(できれば図説も)となります。
+よし, 覚えましょう。
+
+## いや, 無理やろ
+
+私は, これを初めて聞いた時「いや, この分量全暗記とかやりたくないわ」と正直思いました。
+実際, 教科書 / 図説だけを用いて全て暗記するのはほぼ無理ゲーかと。
+そもそもどこから手をつければいいのかわからない...。
+
+## 救世主「問題集」
+
+そう, この悩みを解決してくれるのが「問題集」なのです。全暗記が目標とはいえども, 出題されやすい分野 / 内容というものは存在します。すなわち, 優先的に暗記すべき内容を教えてくれるのが問題集なのです。
+
+## 具体的な勉強法 / モデルケース
+
+問題集を用いた生物の勉強法の一例を紹介します。
+
+- 教科書で 1 章分目を通す(この段階では「内容理解」に集中)
+- 問題集の該当範囲を解く(この段階では「暗記」に集中)
+- 教科書を読み返す。(脳内の情報整理のため)
+
+生物初心者はこの流れがおすすめです。これだけで進研模試のレベルであれば偏差値 70 は下回らなくなるはずです。

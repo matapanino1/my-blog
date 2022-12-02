@@ -1,19 +1,45 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: "だらだらでもいいじゃない「無限ループ勉強法」"
+excerpt: "「長時間集中力が続かない」「気づいたらスマホを見てしまう」。そういった方におすすめの勉強法を紹介いたします。5分区切りで「だらだらモード」と「勉強モード」を繰り返す勉強法です。"
+coverImage: "/assets/blog/dynamic-routing/pexels-pixabay-415071.jpg"
+date: "2022-12-02T05:35:07.322Z"
 author:
-  name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: 永久学生
+  picture: "/assets/blog/authors/PXL_20220225_041108575.jpg"
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: "/assets/blog/dynamic-routing/pexels-pixabay-415071.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## いくら待っても湧き出ない集中力
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+「長時間集中力が続かない」「気づいたらスマホを見てしまう」...
 
-## Lorem Ipsum
+難関大を志す高一生から社会人の方まで, 一度は持ったことのある悩みなのではないでしょうか。
+私もそのうちの一人なのですが, ある勉強法を始めたことを皮切りに少しずつ勉強時間を増やし, 塾に通わずに京都大学に合格することができました。
+その勉強法を共有させていただきたいと思います。
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## 取り敢えず YouTube 見るか...
+
+勉強しなきゃな...やる気出ないし, 一旦 YouTube...。これ, よくある流れなのではないかと。
+あくまで私の経験則ですが, この感情を止めることは基本的に不可能です。
+
+ここで大事なのは, 「100 できなくても, 1 は進む」と考えることです。
+
+1 時間続けて勉強できなくても, 細切れに 5 分勉強して気が散ったら YouTube...というサイクルを 12 回繰り返せば, 1 時間の勉強時間になります。
+
+要はぶっ続けで YouTube を見ない仕組みを作ればいいのです。
+
+## 無限ループ勉強法
+
+無限ループ勉強法とは, この「YouTube→ 勉強 →YouTube→ 勉強...」のサイクルをどのように実行するかの方策です。
+
+具体的にどのようにしたらうまくいくのか, その一例をご紹介していきます。
+
+- YouTube を見たいと思ったら, 参考書の解く問題のページを開いた状態で見始める。
+- 参考書を視野に入れながら YouTube を視聴していると, 罪悪感に襲われる。
+- 何問か解く。
+- また YouTube を見たくなる。
+- 以下, この繰り返し。
+
+こういった流れで実行してみてはいかがでしょうか。
+もし罪悪感が生まれないという場合には, なぜ勉強しなければいけないか, 「目的」の部分を今一度明確にすべきかと思います。人間誰しも, やる必要性のないものにモチベーションなど感じ得ないわけですからね。

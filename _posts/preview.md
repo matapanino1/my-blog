@@ -1,19 +1,44 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/preview/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: "受験数学にセンスなど要らない(例外あり)"
+excerpt: "受験数学にセンスなど要らないんです。数学は一部の例外的な人間にしかできないと思っている方や, これから勉強を初めてみたい方の参考になれば。"
+coverImage: "/assets/blog/preview/cover.jpg"
+date: "2022-12-02T05:35:07.322Z"
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: 永久学生
+  picture: "/assets/blog/authors/PXL_20220225_041108575.jpg"
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: "/assets/blog/preview/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## 数学にセンスは必要か？
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+こう聞かれると, センスがない筆者視点では Yes とは答えにくくなってきます。
+というのも, 数学科の研究レベルになればきっと才能がものをいう世界になってくるでしょう。
+あ, 今この記事を離れようとしたあなた, ちょっと待ってください(お願いします, なんでもしま...ry)。
 
-## Lorem Ipsum
+## 創るのではなく, 学ぶ
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+研究者が行うのが「創る」ことだとすれば, 受験数学は「学ぶ」ことです。
+他の科目を学べているのだとすれば, 必要な能力はもう持っていると考えられないでしょうか。受験数学を学ぶのに何か能力が必要だとすれば, 人類に限らず,多くの哺乳類が持っている「学習能力」だけです。
+
+## でも, みんな挫折するやん
+
+その通り。なぜ数学が難しく感じるのか考えてみましょう。
+
+「sin, cos 等, 高校に入ってから扱うのが数字ではなくなった」
+
+こう言った声をよく聞きます。確かにその通りです。高校以降の数学では「抽象度」が増し, 具体的な数字ではなく文字を使うようになり, この文字の意味が分からずに挫折する人が続出するのではないかと。
+
+## 英語と同じ
+
+英語を学び始めた当初のことを思い返してみてください。長文を見た時, 読めるようになる未来は見えなかったのではないかと思います。
+「わからない単語」「慣れていない文字の羅列」...。絶望でしたよね。
+
+しかし, 単語帳を一冊仕上げ, 文法書を読み, と言ったことを積み重ねていくと不思議と読めるようになったのではないでしょうか？
+
+## 数学にギャップ萌え
+
+要は, 最初は難しいかもよくわかっていない状況にあるのです。
+怖そうだな...と思っていたあの子も, 仲良くなってみたらめちゃくちゃ面白い人だった, なんてこともあるでしょう。数学はまさにそんな感じです。あまりに近寄りがたい雰囲気を出しているあまりに, 多くの人が見た瞬間話しかけるのを諦めてしまうのです。
+
+「数学さんへの話しかけ方」を記事にします。
